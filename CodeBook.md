@@ -3,16 +3,16 @@
 ##Viriables
 
     Main viriables describ as follow:
-    *train_datas/test_datas: Raw datas from X_train.txt/X_test.txt.
-    *train_labels/test_labels: Raw datas from y_train.txt/y_test.txt.
-    *train_subject/test_subject: Raw datas from subject_train.txt/subject_test.txt.
-    *features_table: Raw datas from features.txt.
-    *labels_table: Raw datas from activity_labels.txt.
-    *datas: Merged from train_datas and test_datas with all features.
-    *lebels: Merged from train_labels and test_labels.
-    *subject: Merged from train_subject and test_subject.
-    *filtered_datas: Filtered from datas with only "mean" and "std" features.
-    *tidy_datas: Filtered from filtered_datas with only "mean" features.
+    * train_datas/test_datas: Raw datas from X_train.txt/X_test.txt.
+    * train_labels/test_labels: Raw datas from y_train.txt/y_test.txt.
+    * train_subject/test_subject: Raw datas from subject_train.txt/subject_test.txt.
+    * features_table: Raw datas from features.txt.
+    * labels_table: Raw datas from activity_labels.txt.
+    * datas: Merged from train_datas and test_datas with all features.
+    * lebels: Merged from train_labels and test_labels.
+    * subject: Merged from train_subject and test_subject.
+    * filtered_datas: Filtered from datas with only "mean" and "std" features.
+    * tidy_datas: Filtered from filtered_datas with only "mean" features.
 
 ##Steps
 
